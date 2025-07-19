@@ -24,7 +24,7 @@ body, .document, .bodywrapper, .body, section {
 }
 
 /* FULL WIDTH BANNER IMAGE */
-.hero-banner {
+.my-ban {
   width: 100%;
   height: 400px;
   background-image: url('banner1.jpg'); /* Change to your image */
@@ -34,7 +34,7 @@ body, .document, .bodywrapper, .body, section {
 }
 
 /* DARK OVERLAY WITH TEXT + BUTTON */
-.hero-overlay {
+.my-over {
   position: absolute;
   top: 0;
   left: 0;
@@ -47,14 +47,14 @@ body, .document, .bodywrapper, .body, section {
   align-items: center;
 }
 
-.hero-heading {
+.my-heading {
   color: #fff;
   font-size: 32px;
   margin-bottom: 20px;
   text-align: center;
 }
 
-.hero-button {
+.my-button {
   background-color: #fff;
   color: #007BFF;
   padding: 14px 28px;
@@ -64,7 +64,7 @@ body, .document, .bodywrapper, .body, section {
   transition: background 0.3s ease;
 }
 
-.hero-button:hover {
+.my-button:hover {
   background-color: #007BFF;
   color: #fff;
 }
