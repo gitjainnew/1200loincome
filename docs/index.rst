@@ -13,8 +13,7 @@ $1200 Low Income for Seniors: How to Apply?
    </div>
 
  
-       <h2 class="my-heading">Claim Your $1200 Low Income Senior Benefit</h2>
- <a class="my-button" href="https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-apply-for-1200-low-income-for-seniors-program%2F&sa=D&sntz=1&usg=AOvVaw1SampleLink" target="_blank">Check Eligibility</a>
+     
 
  <div class="site-footer">
      &copy; 2025 Low Income Senior Benefit Program
