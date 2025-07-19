@@ -7,9 +7,11 @@ $1200 Low Income for Seniors: How to Apply?
    :description: The $1200 Low Income for Seniors program offers financial support through SSI, SNAP, and Medicare Savings Programs. Apply online via SSA.gov or Benefits.gov.
 
 .. raw:: html
+
   <div class="site-header">
      <div class="site-name">$1200 Low income for Seniors</div>
    </div>
+
 <div class="hero-banner">
      <div class="hero-overlay">
        <h2 class="hero-heading">Claim Your $1200 Low Income Senior Benefit</h2>
