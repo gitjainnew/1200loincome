@@ -10,7 +10,12 @@ $1200 Low Income for Seniors: How to Apply?
   <div class="site-header">
      <div class="site-name">$1200 Low income for Seniors</div>
    </div>
-
+<div class="hero-banner">
+     <div class="hero-overlay">
+       <h2 class="hero-heading">Claim Your $1200 Low Income Senior Benefit</h2>
+       
+     </div>
+   </div>
 
  <div class="site-footer">
      &copy; 2025 Low Income Senior Benefit Program
